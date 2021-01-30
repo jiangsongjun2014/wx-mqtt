@@ -1,0 +1,14 @@
+page{
+  background: #ededed;
+}
+input{
+  margin: 20rpx;
+  background: #ffffff;
+  padding: 15rpx 10rpx;
+  font-size: 30rpx;
+  border-radius: 5rpx;
+}
+button{
+  margin: 20rpx;
+  font-size: 30rpx;
+}

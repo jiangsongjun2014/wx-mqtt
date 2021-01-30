@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/connect/connect"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#407eff",
+    "navigationBarTitleText": "WX-MQTT",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}

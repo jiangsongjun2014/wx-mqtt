@@ -1,0 +1,9 @@
+
+<view class="container">
+  <input placeholder='设备编号' bindinput='getClientId'></input>
+  <button type='primary' bindtap='getClientInfo' >生成账号密码</button>
+  <button type='primary' bindtap='handleClientConnect' >连接MQTT</button>
+  <button type='primary' bindtap='handleClientSendOne' >发送一对一消息</button>
+  <button type='primary' bindtap='handleClientSendMore' >发送一对多消息</button>
+</view>
+
